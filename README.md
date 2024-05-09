@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khalil! <br/>
+<h1>Hi, I'm Khalil Hawkins! <br/>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
